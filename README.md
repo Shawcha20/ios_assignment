@@ -78,3 +78,7 @@
  
  asif code picture
 ![asif code](https://github.com/user-attachments/assets/113b9557-8ab2-4ae2-b05b-61867584e1fd)
+
+
+
+Shawcha and Mosabbir work on signup and login page for building up authentication with the help of firebaseAuth. Asif wrote the code for fetching the data from firestore database to our app.
