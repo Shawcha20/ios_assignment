@@ -87,7 +87,7 @@ struct ContentView: View {
                 print(error!.localizedDescription)
             }
         }
-    }
+    }}
 }
 
 struct ContentView_Previews: PreviewProvider{
